@@ -1,0 +1,13 @@
+{
+	"name": "Ubuntu",
+	"image": "mcr.microsoft.com/devcontainers/base:jammy",
+	"postCreateCommand": ".devcontainer/postCreate.sh",
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"Antyos.openscad@1.2.0",
+				"tatsy.vscode-3d-preview"
+			]
+		}
+	}
+}
