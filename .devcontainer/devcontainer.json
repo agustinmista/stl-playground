@@ -6,7 +6,8 @@
 		"vscode": {
 			"extensions": [
 				"Antyos.openscad@1.2.0",
-				"tatsy.vscode-3d-preview"
+				"tatsy.vscode-3d-preview",
+				"ML.nc-gcode"
 			]
 		}
 	}
